@@ -1,6 +1,3 @@
-# personal_hompage
-
-
 # Welcome to My Personal Website! 🌐
 
 Hello! I'm **Eberechukwunemerem John Sunday**, a passionate **Research Assistant** at the **Solution Innovative District (SID) Cybersecurity Lab** and a **Computer Science Teacher** at Hedge Foundation Schools. My site showcases my work, interests, and projects in the areas of **Cybersecurity**, **Cryptograhy**, **Network and Computer Security** and **Education**.
