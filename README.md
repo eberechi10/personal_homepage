@@ -41,12 +41,12 @@ If you want to set up this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/eberechi10/your-repo-name.git
+   git clone https://github.com/eberechi10/personal_hompage.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd your-repo-name
+   cd personal_hompage
    ```
 
 3. **Install the required dependencies** (if applicable):
